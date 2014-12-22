@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be inquired of the Clergie: Set foorth by the Reuerend Father in God, Thomas Biſhop of L
+
 #####Body#####
 
 1. Articles.
