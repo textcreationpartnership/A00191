@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be inquired of the clergie set foorth by the reuerend father in God, Thomas Bishop of Li
+Articles to be inquired of the Clergie: Set foorth by the Reuerend Father in God, Thomas Biſhop of L
 #####Body#####
-Articles to be inquired of the clergie set foorth by the reuerend father in God, Thomas Bishop of Li
+
+1. Articles.
+
+1. Articles to be inquired of the Laytie.
+
+1. ¶Iniunctions of the Reuerende Father in God Thomas by the ſufferaunce of God byſhop of Lincoln̄ giuen in his firſt viſitation, Anno Domini. 1571. to be obſerued within the Dioces of Lincoln̄.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
